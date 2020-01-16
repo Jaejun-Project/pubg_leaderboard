@@ -17,26 +17,34 @@ My web page will contain below pages.
 ![leaderboard](https://github.com/Jaejun-Project/pubg_leaderboard/blob/master/ImgRead/leaderboard.png)
 
 **Stats**
-	- Will display more detailed information about individual user.
-	- Only register user can search player's stats.
+- Will display more detailed information about individual user.
+- Only register user can search player's stats.
 ![]()
 **Sign up and Login page**
-	- People can register and login for the web page.
+- People can register and login for the web page.
+
 ![register](https://github.com/Jaejun-Project/pubg_leaderboard/blob/master/ImgRead/register.png)
+
 ![login](https://github.com/Jaejun-Project/pubg_leaderboard/blob/master/ImgRead/login.png)
+
+
 **Database:**
-	a)
-		- Use the open API to get the PlayerUnknown's Battleground player stats. 
-		- Use MySQL to store the data on who have registered for the website. 
-	b)
-		- The given API will provide players' stats, play mode, and play seasons. 
-		- When audiences sign up for the web page, the sign-up page will require the user name, password, and 				email address And, all of these will be stored in the MySQL database. 
-	c)
-	 -	The open API is given by "https://pubgtracker.com/site-api">https://pubgtracker.com/site-api.
-	 -	Login users' information will be come from the MySQL. 
+a)
+
+- Use the open API to get the PlayerUnknown's Battleground player stats. 
+- Use MySQL to store the data on who have registered for the website. 
+
+b)
+- The given API will provide players' stats, play mode, and play seasons. 
+- When audiences sign up for the web page, the sign-up page will require the user name, password, and 				email address And, all of these will be stored in the MySQL database. 
+
+c)
+- The open API is given by "https://pubgtracker.com/site-api">https://pubgtracker.com/site-api.
+- Login users' information will be come from the MySQL. 
+
 ## Database Diagram:
-   1. API https://pubgtracker.com/site-api.
-   2. Session 
-   3. Pagination
+1. API https://pubgtracker.com/site-api.
+2. Session 
+3. Pagination
 
 
