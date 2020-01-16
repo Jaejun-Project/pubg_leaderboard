@@ -7,7 +7,7 @@ My website will provide the leaderboard for the game called the PlayerUnknown's 
 ## How my site works:</h2>
 My web page will contain below pages.
 
-![Main page](https://github.com/Jaejun-Project/pubg_leaderboard/blob/master/ImgRead/main.png =250x250)
+![Main page](https://github.com/Jaejun-Project/pubg_leaderboard/blob/master/ImgRead/main.png)
 
 **Leaderboards**
 - Will display all players' rankings with ratings. <br/>
