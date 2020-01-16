@@ -22,9 +22,9 @@ My web page will contain below pages.
 ![]()
 **Sign up and Login page**
 - People can register and login for the web page.
-![register](https://github.com/Jaejun-Project/pubg_leaderboard/blob/master/ImgRead/register.png =300*300)
+![register](https://github.com/Jaejun-Project/pubg_leaderboard/blob/master/ImgRead/register.png | width=100)
 
-![login](https://github.com/Jaejun-Project/pubg_leaderboard/blob/master/ImgRead/login.png =300*300)
+![login](https://github.com/Jaejun-Project/pubg_leaderboard/blob/master/ImgRead/login.png | width=100)
 
 
 **Database:**
