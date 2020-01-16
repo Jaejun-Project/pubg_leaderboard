@@ -19,7 +19,8 @@ My web page will contain below pages.
 **Stats**
 - Will display more detailed information about individual user.
 - Only register user can search player's stats.
-![]()
+
+![](https://github.com/Jaejun-Project/pubg_leaderboard/blob/master/ImgRead/stat.png)
 
 **Sign up and Login page**
 - People can register and login for the web page.
