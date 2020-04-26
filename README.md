@@ -2,23 +2,23 @@
 
   
 ## Final Project Proposal
-My website will provide the leaderboard for the game called the PlayerUnknown's Battleground. Users of the PlayerUnknown's Battleground can check their ranks and their status on how they have played their game from my website.
+My website provides the leaderboard for the game called the PlayerUnknown's Battleground. Users of the PlayerUnknown's Battleground can check their ranks and their status on how they have played their game from my website.
 
 ## How my site works:
-My web page will contain below pages.
+My web page contains below pages.
 
 ![Main page](https://github.com/Jaejun-Project/pubg_leaderboard/blob/master/ImgRead/main.png)
 
 **Leaderboards**
-- Will display all players' rankings with ratings. 
-- Once register user search player from main page, player's stats will store into database.
-- Retrieve player info from leaderboard table in Database. 
+- Display all players' rankings with ratings. 
+- Once registered user search player from main page, player's stats will store into database.
+- Retrieve player info from the leaderboard table in database. 
 
 ![leaderboard](https://github.com/Jaejun-Project/pubg_leaderboard/blob/master/ImgRead/leaderboard.png)
 
 **Stats**
-- Will display more detailed information about individual user.
-- Only register user can search player's stats.
+- Display more detailed information about individual user.
+- Only registered user can search player's stats.
 
 ![](https://github.com/Jaejun-Project/pubg_leaderboard/blob/master/ImgRead/stat.png)
 
